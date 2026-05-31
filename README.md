@@ -232,7 +232,7 @@ print(me.motto())
 
 *"Data is the new oil — I'm the refinery."*
 
-**Open to Junior AI/ML Engineer & Data Scientist roles in the UK 🇬🇧**
+**Open to Developer & Data Scientist roles in the UK 🇬🇧**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanja)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.a.kishanbabu@gmail.com)
