@@ -18,9 +18,9 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class KishanJA:
+class Kishan Janaki Anandakumar:
     def __init__(self):
-        self.name        = "Kishan J A"
+        self.name        = "Kishan Janaki Anandakumar"
         self.location    = "Belfast, United Kingdom 🇬🇧"
         self.degree      = "MSc Artificial Intelligence — Queen's University Belfast"
         self.role        = "AI Developer & Data Scientist"
